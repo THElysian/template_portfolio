@@ -32,3 +32,5 @@ plugins:
   - jekyll-gist
   
 
+
+theme: jekyll-theme-slate
